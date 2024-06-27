@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on Sopra Steria <br>
 - 🌱 I’m currently learning React <br>
 <p>- 📫 How to reach me: <a href="https://www.linkedin.com/in/sonia-rodriguez-ramos/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Sonia Rodriguez Ramos | LinkedIn" width="21px"/></a> </p>
-<h1></h1>
+
+---
+
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -13,5 +15,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" title="PHP" **alt="php" width="45" height="30"/>
       </div>
 </div>
-<h1></h1>
+
+---
+
 <a href="https://github.com/soniarr234/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniarr234&layout=compact&theme=buefy&hide_border=true" /></a>
